@@ -10,7 +10,7 @@ The model is trained using a **Random Forest Regressor**, achieving strong predi
 
 ## 🚀 Live Demo
 
-(link)
+https://house-price-prediction-amo24.streamlit.app/
 
 ---
 
